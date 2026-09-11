@@ -4,11 +4,11 @@
     <td width="60%" valign="top">
       <h2>👋 Sobre Mí / About Me</h2>
       <p>
-        ¡Hola! Soy un apasionado desarrollador enfocado en crear experiencias web interactivas y animadas. 
-        Me encanta optimizar el rendimiento y diseñar interfaces de usuario atractivas y modernas.
-      </p>
-      <p>
-        Actualmente estoy trabajando con <b>React, Node.js y animaciones CSS/GSAP</b>. ¡Siempre abierto a nuevos proyectos y colaboraciones!
+       Soy un profesional en formación en Ingeniería de Sistemas y Computación, orientado al análisis y resolución de problemas mediante el uso de la tecnología. Cuento con interés y habilidades en el diseño, implementación, mantenimiento y optimización de soluciones tecnológicas, especialmente en áreas relacionadas con infraestructura, hardware, redes, telecomunicaciones y sistemas informáticos.
+
+Me caracterizo por mi capacidad para identificar necesidades, analizar situaciones y desarrollar soluciones eficientes y funcionales. Tengo conocimientos para trabajar con equipos y componentes tecnológicos, configurar y administrar redes y sistemas de comunicación, implementar y mantener infraestructuras tecnológicas, así como brindar soporte y garantizar el correcto funcionamiento de los recursos informáticos.
+
+Mi objetivo es continuar fortaleciendo mis conocimientos y experiencia para participar en proyectos tecnológicos, aportando soluciones integrales, eficientes y orientadas a las necesidades de cada entorno.
       </p>
     </td>
     <!-- Columna Derecha: Imagen o GIF Animado -->
