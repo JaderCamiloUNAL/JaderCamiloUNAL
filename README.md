@@ -1,54 +1,40 @@
-This portfolio leverages the latest Next.js 16 and React 19 capabilities:
+<table border="0">
+  <tr>
+    <!-- Columna Izquierda: Texto About Me -->
+    <td width="60%" valign="top">
+      <h2>👋 Sobre Mí / About Me</h2>
+      <p>
+        ¡Hola! Soy un apasionado desarrollador enfocado en crear experiencias web interactivas y animadas. 
+        Me encanta optimizar el rendimiento y diseñar interfaces de usuario atractivas y modernas.
+      </p>
+      <p>
+        Actualmente estoy trabajando con <b>React, Node.js y animaciones CSS/GSAP</b>. ¡Siempre abierto a nuevos proyectos y colaboraciones!
+      </p>
+    </td>
+    <!-- Columna Derecha: Imagen o GIF Animado -->
+    <td width="40%" align="center" valign="middle">
+      <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/54969abf-2749-48bc-ab3f-995869592975" />
 
-| Feature                  | Benefit                                                      |
-| ------------------------ | ------------------------------------------------------------ |
-| **App Router**           | Modern routing with layouts and nested routes                |
-| **Server Components**    | Improved performance with zero JavaScript for static content |
-| **Server Actions**       | Simplified form handling in contact page                     |
-| **Metadata API**         | Enhanced SEO with type-safe metadata                         |
-| **Image Optimization**   | Automatic image optimization with `next/image`               |
-| **Font Optimization**    | Automatic font loading with `next/font`                      |
-| **Streaming & Suspense** | Better loading states and progressive rendering              |
-| **React 19 Features**    | Actions, use hook, and improved hydration                    |
+    Jader Camilo Rodriguez Arboleda
+  </tr>
+</table>
 
----
+## Comunicación
+## 📬 ¡Hablemos! / Contacto
 
-## Sections :bookmark:
+Para cualquier propuesta, colaboración o simplemente saludar, puedes encontrarme en:
 
-| Section           | Description                                         |
-| ----------------- | --------------------------------------------------- |
-| 🦸 **Hero**       | Eye-catching introduction with animated elements    |
-| 👤 **About Me**   | Personal information and professional summary       |
-| 💼 **Experience** | Work history and professional accomplishments       |
-| 🛠️ **Skills**     | Technical skills with animated marquee display      |
-| 🚀 **Projects**   | Showcase your best work with descriptions and links |
-| 🎓 **Education**  | Academic background and certifications              |
-| 📝 **Blog**       | Latest articles from dev.to (auto-fetched)          |
-| 📧 **Contact**    | Get in touch form with email/Telegram integration   |
+[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)
+[![Gmail](https://shields.io)](mailto:tu_correo@gmail.com)
+[![Portfolio](https://shields.io)](TU_LINK_DE_PORTAFOLIO)
+[![Instagram](https://shields.io)](TU_LINK_DE_INSTAGRAM)
 
----
+## Educacion
 
-## Table of Contents :scroll:
+## Proyectos
 
-- [Overview](#overview)
-- [Demo](#demo-movie_camera)
-- [Features](#features-sparkles)
-- [Sections](#sections-bookmark)
-- [Tech Stack](#tech-stack-computer)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Usage](#usage-joystick)
-- [Deployment](#deployment-rocket)
-- [Tutorials](#tutorials-wrench)
-  - [Gmail App Password Setup](#gmail-app-password-setup)
-  - [Create a Telegram Bot](#create-a-telegram-bot)
-  - [Fetching Blog from dev.to](#fetching-blog-from-devto)
-- [Packages Used](#packages-used-package)
-- [Contributing](#contributing-handshake)
-- [License](#license-page_with_curl)
-- [Support](#support-coffee)
+## Educación
 
----
 
 ## Tech Stack :computer:
 
