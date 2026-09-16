@@ -104,12 +104,6 @@
 
 ## Educación
 
-🛠️ Tech Stack	
- React	
- Python	
- MySQL	
- Git	
- GitHub	
 ## Tech Stack :computer:
 
 | Technology  | Icono   | Proposito                                          |
