@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,nodejs,mysql,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,python,nodejs,mysql,git,github" />
 </p>
 
 ---
@@ -85,15 +85,18 @@
 
 ---
 
-## Comunicación
-## 📬 ¡Hablemos! / Contacto
+📬 ¡Hablemos!
 
-Para cualquier propuesta, colaboración o simplemente saludar, puedes encontrarme en:
+¿Tienes una idea, propuesta, proyecto o simplemente quieres conectar?
+¡No dudes en contactarme! 🚀
 
-[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)
-[![Gmail](https://shields.io)](mailto:tu_correo@gmail.com)
-[![Portfolio](https://shields.io)](TU_LINK_DE_PORTAFOLIO)
-[![Instagram](https://shields.io)](TU_LINK_DE_INSTAGRAM)
+<p align="center"> 
+  <a href="TU_LINK_DE_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> <a href="mailto:TU_CORREO@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a> <a href="TU_LINK_DE_PORTAFOLIO"> <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  </a> <a href="TU_LINK_DE_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> <p align="center"> <i>💻 Construyendo proyectos • 🚀 Aprendiendo constantemente • 🤝 Conectando con personas</i> </p>
+
+---
 
 ## Educacion
 
@@ -106,10 +109,12 @@ Para cualquier propuesta, colaboración o simplemente saludar, puedes encontrarm
 
 | Technology       | Version | Purpose                                   |
 | ---------------- | ------- | ----------------------------------------- |
-| **Next.js**      | 16.0.1  | React framework with App Router           |
-| **React**        | 19.2.0  | UI component library with latest features |
-| **Docker**       | -       | Containerization platform                 |
-
+| **Node.js**      | -       |                                           |
+| **React**        | -       |                                           |
+| **Python**       | -       |                                           |
+| **MySql**        | -       |                                           |
+| **Git**          | -       |                                           |
+| **Github**       | -       |                                           |
 ---
 
 #### 📝 Personal Information (`personal-data.js`)
@@ -131,18 +136,3 @@ export const personalData = {
 };
 ```
 ---
-
----
-
-## ✨ UI & Animations
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Lottie-Animations-FF6C37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Marquee-Scrolling-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-Icons-61DAFB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Toastify-Notifications-FFCA28?style=for-the-badge" />
-
-</p>
-
-
