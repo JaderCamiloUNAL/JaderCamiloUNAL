@@ -92,7 +92,7 @@
 
 <p align="center"> 
   <a href="TU_LINK_DE_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a> <a href="mailto:TU_CORREO@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a> <a href="jadrodriguezar@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a> <a href="TU_LINK_DE_PORTAFOLIO"> <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /> 
   </a> <a href="TU_LINK_DE_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> <p align="center"> <i>💻 Construyendo proyectos • 🚀 Aprendiendo constantemente • 🤝 Conectando con personas</i> </p>
 
@@ -104,17 +104,22 @@
 
 ## Educación
 
-
+🛠️ Tech Stack	
+ React	
+ Python	
+ MySQL	
+ Git	
+ GitHub	
 ## Tech Stack :computer:
 
-| Technology       | Version | Purpose                                   |
-| ---------------- | ------- | ----------------------------------------- |
-| **Node.js**      | -       |                                           |
-| **React**        | -       |                                           |
-| **Python**       | -       |                                           |
-| **MySql**        | -       |                                           |
-| **Git**          | -       |                                           |
-| **Github**       | -       |                                           |
+| Technology  | Icono   | Proposito                                          |
+| ------------| ------- | -------------------------------------------------- |
+| **Node.js** | <img src="https://skillicons.dev/icons?i=nodejs" width="30"> |  Desarrollo de APIs, backend y servicios del lado del servidor |
+| **React**   | <img src="https://skillicons.dev/icons?i=react" width="30">  | Desarrollo de interfaces y aplicaciones web interactivas |
+| **Python**  | <img src="https://skillicons.dev/icons?i=python" width="30"> | Automatización, scripting y desarrollo de aplicaciones |
+| **MySql**   | <img src="https://skillicons.dev/icons?i=mysql" width="30">  | Gestión y almacenamiento de bases de datos relacionales y no relacionales |
+| **Git**     | <img src="https://skillicons.dev/icons?i=git" width="30">    | Control de versiones y seguimiento de cambios |
+| **Github**  | <img src="https://skillicons.dev/icons?i=github" width="30"> | Gestión de repositorios, colaboración y publicación de proyectos |
 ---
 
 #### 📝 Personal Information (`personal-data.js`)
