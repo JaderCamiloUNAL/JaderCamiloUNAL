@@ -1,23 +1,89 @@
-<table border="0">
-  <tr>
-    <!-- Columna Izquierda: Texto About Me -->
-    <td width="60%" valign="top">
-      <h2>👋 Sobre Mí / About Me</h2>
-      <p>
-       Soy un profesional en formación en Ingeniería de Sistemas y Computación, orientado al análisis y resolución de problemas mediante el uso de la tecnología. Cuento con interés y habilidades en el diseño, implementación, mantenimiento y optimización de soluciones tecnológicas, especialmente en áreas relacionadas con infraestructura, hardware, redes, telecomunicaciones y sistemas informáticos.
+<h1 align="center">
+  Hola 👋, Soy Camilo
+</h1>
 
-Me caracterizo por mi capacidad para identificar necesidades, analizar situaciones y desarrollar soluciones eficientes y funcionales. Tengo conocimientos para trabajar con equipos y componentes tecnológicos, configurar y administrar redes y sistemas de comunicación, implementar y mantener infraestructuras tecnológicas, así como brindar soporte y garantizar el correcto funcionamiento de los recursos informáticos.
+<h3 align="center">
+  Ingeniero en Sistemas • React • Node.js • Python
+</h3>
 
-Mi objetivo es continuar fortaleciendo mis conocimientos y experiencia para participar en proyectos tecnológicos, aportando soluciones integrales, eficientes y orientadas a las necesidades de cada entorno.
-      </p>
-    </td>
-    <!-- Columna Derecha: Imagen o GIF Animado -->
-    <td width="40%" align="center" valign="middle">
-      <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/54969abf-2749-48bc-ab3f-995869592975" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas;React+%7C+Node.js+%7C+Python;Building+cool+things+with+code" />
+</p>
 
-    Jader Camilo Rodriguez Arboleda
-  </tr>
-</table>
+---
+
+## 👨‍💻 Sobre mí
+
+- 🚀 Desarrollador enfocado en crear aplicaciones web modernas y videojuegos
+- ⚛️ Experiencia trabajando con React, Python y Node.js
+- 🐍 Desarrollo de aplicaciones y automatizaciones con Python
+- 🗄️ Trabajo con bases de datos SQL
+- 🐳 Interesado en Docker, arquitectura y buenas prácticas
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,python,nodejs,mysql,postgres,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<table border="0"> <tr> <!-- Columna Izquierda --> <td width="60%" valign="top">
+  <h2>👋 Sobre Mí</h2>
+
+  <p>
+    Soy estudiante de <strong>Ingeniería de Sistemas y Computación</strong>,
+    apasionado por la tecnología y el desarrollo de soluciones que permitan
+    resolver problemas de manera eficiente.
+  </p>
+
+  <p>
+    Me interesa especialmente el desarrollo de aplicaciones web,
+    trabajando con tecnologías como <strong>React, Node.js y Python</strong>,
+    además de áreas relacionadas con infraestructura, redes, bases de datos
+    y sistemas informáticos.
+  </p>
+
+  <p>
+    🚀 Actualmente estoy enfocado en seguir fortaleciendo mis habilidades,
+    aprender nuevas tecnologías y participar en proyectos donde pueda
+    convertir ideas en soluciones funcionales.
+  </p>
+
+  <p>
+    💡 <strong>Siempre aprendiendo, construyendo y mejorando.</strong>
+  </p>
+
+</td>
+
+<!-- Columna Derecha -->
+<td width="40%" align="center" valign="middle">
+
+  <img
+    width="300"
+    height="400"
+    alt="Jader Camilo Rodriguez Arboleda"
+    src="https://github.com/user-attachments/assets/54969abf-2749-48bc-ab3f-995869592975"
+  />
+
+  <strong>Jader Camilo Rodriguez Arboleda</strong>
+
+</td>
+
+</tr> </table>
+
+---
 
 ## Comunicación
 ## 📬 ¡Hablemos! / Contacto
@@ -50,49 +116,33 @@ Para cualquier propuesta, colaboración o simplemente saludar, puedes encontrarm
 
 ```javascript
 export const personalData = {
-  name: "YOUR NAME",
+  name: "JADER CAMILO RODRIGUEZ ARBOLEDA",
   profile: "/profile.png", // Path to your profile image
-  designation: "Software Developer", // Your job title
+  designation: "Systems and Computer Engineer", 
   description: "Your bio and introduction...", // About yourself
-  email: "your.email@example.com",
-  phone: "+1234567890",
-  address: "City, Country",
+  institutional email: "jadrodriguezar@unal.edu.co",
+  personal email : "jadercamilorodriguez@gmail.com",
+  phone: "+57 3113112170",
+  address: "Bogota, Colombia",
   github: "https://github.com/yourusername",
   facebook: "https://www.facebook.com/yourprofile",
   linkedIn: "https://www.linkedin.com/in/yourprofile",
   twitter: "https://twitter.com/yourusername",
-  stackOverflow: "https://stackoverflow.com/users/your-id",
-  leetcode: "https://leetcode.com/yourusername/",
-  devUsername: "yourusername", // dev.to username for blog integration
-  resume: "https://link-to-your-resume.pdf",
 };
 ```
 ---
 
-### 🤖 Create a Telegram Bot
-
-1. Open Telegram and search for `@BotFather`
-2. Send `/newbot` command
-3. Set bot name and username (must end with `bot`)
-4. Copy the bot token
-5. Send a message to your bot
-6. Get chat ID from: `https://api.telegram.org/bot<BOT_TOKEN>/getUpdates`
-7. Add to `.env` file:
-
-```env
-TELEGRAM_BOT_TOKEN=123456789:ABCdefGHIjklMNOpqrsTUVwxyz
-TELEGRAM_CHAT_ID=123456789
-```
-
 ---
 
+## ✨ UI & Animations
 
-### UI & Animations
+<p align="center">
 
-| Package                | Purpose                                    |
-| ---------------------- | ------------------------------------------ |
-| **lottie-react**       | Lightweight animations with Lottie files   |
-| **react-fast-marquee** | Smooth scrolling marquee component         |
-| **react-icons**        | Popular icon library with easy integration |
-| **react-toastify**     | Beautiful notification toasts              |
+<img src="https://img.shields.io/badge/Lottie-Animations-FF6C37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Marquee-Scrolling-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-Icons-61DAFB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Toastify-Notifications-FFCA28?style=for-the-badge" />
+
+</p>
+
 
