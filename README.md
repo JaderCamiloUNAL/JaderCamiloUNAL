@@ -57,7 +57,7 @@ Bogotá, Colombia
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,mysql,git,github,docker,html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,mysql,git,github,html,js,vscode" />
 </p>
 
 <br>
