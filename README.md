@@ -88,8 +88,6 @@ Bogotá, Colombia
 
 ## 🚀 Proyectos Destacados
 
-> *Aquí puedes ir agregando tus mejores proyectos*
-
 ### 🔹 Proyecto 1 - Nombre del Proyecto
 Descripción corta de lo que hace.  
 **Stack:** React • Node.js • MySQL  
@@ -124,6 +122,9 @@ Universidad Nacional de Colombia
   <a href="https://github.com/JaderCamiloUNAL">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="tel:+573113112170">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
