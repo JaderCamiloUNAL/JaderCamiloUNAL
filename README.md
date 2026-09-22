@@ -97,7 +97,9 @@
   <a href="mail:jadrodriguezar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  </a> <a href="TU_LINK_DE_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> <p align="center"> <i>💻 Construyendo proyectos • 🚀 Aprendiendo constantemente • 🤝 Conectando con personas</i> </p>
+  </a> <a href="TU_LINK_DE_INSTAGRAM"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+  </a> </p> <p align="center"> <i>💻 Construyendo proyectos • 🚀 Aprendiendo constantemente • 🤝 Conectando con personas</i> </p>
 
 ---
 
