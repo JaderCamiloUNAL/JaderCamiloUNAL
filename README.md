@@ -109,18 +109,19 @@ Universidad Nacional de Colombia
 ## 📜 Certificados
 
 <p align="center">
-  <!-- Certificado 1 -->
-  <a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcourses.cognitiveclass.ai%2Fcertificates%2Fa16034cb94924a7faed42ef8e23ecb3c&urlhash=0LbB&mt=GfapfWZMQuSnUKpYCfnPCraRTA-gimKxW_1FQaxj80K1YkqPNie5CTFXws_DxI47LNooLHH2-mZEHRWmhcmo8rkHfQc&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Be3JUTX36S46wgdCKgPnRdg%3D%3D">
-    <img src="https://img.shields.io/badge/Nombre_del_Certificado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://courses.cognitiveclass.ai/certificates/a16034cb94924a7faed42ef8e23ecb3c">
+    <img src="https://img.shields.io/badge/Data_Analysis_with_Python-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <!-- Certificado 2 -->
-  <a href="LINK_DEL_CERTIFICADO_2">
-    <img src="https://img.shields.io/badge/Nombre_del_Certificado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://courses.cognitiveclass.ai/certificates/236926a583da473483145dd8875b256a">
+    <img src="https://img.shields.io/badge/Data_Visualization_with_Python-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <!-- Certificado 3 -->
-  <a href="LINK_DEL_CERTIFICADO_3">
-    <img src="https://img.shields.io/badge/Nombre_del_Certificado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://courses.cognitiveclass.ai/certificates/1c657af611bb4db4b38caffad109fbe1">
+    <img src="https://img.shields.io/badge/Python_101_for_Data_Science-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Emitidos por <strong>Cognitive Class</strong> (IBM) • Abril 2026</sub>
 </p>
 ---
 
