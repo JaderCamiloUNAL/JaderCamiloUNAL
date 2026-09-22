@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola 👋, Soy Camilo
+  Hola 👋, soy <a href="https://github.com/JaderCamiloUNAL">Camilo</a>
 </h1>
 
 <h3 align="center">
@@ -7,135 +7,125 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas;React+%7C+Node.js+%7C+Python;Building+cool+things+with+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+y+Computaci%C3%B3n;React+%7C+Node.js+%7C+Python;Building+cool+things+with+code;Always+learning+%26+building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jader-camilo-rodríguez-arboleda-59901717a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jadrodriguezar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/JaderCamiloUNAL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-- 🚀 Desarrollador enfocado en crear aplicaciones web modernas y videojuegos
-- ⚛️ Experiencia trabajando con React, Python y Node.js
-- 🐍 Desarrollo de aplicaciones y automatizaciones con Python
-- 🗄️ Trabajo con bases de datos SQL
-- 🐳 Interesado en Docker, arquitectura y buenas prácticas
+<table>
+<tr>
+<td width="62%" valign="top">
+
+Soy estudiante de **Ingeniería de Sistemas y Computación** en la Universidad Nacional de Colombia, apasionado por la tecnología y el desarrollo de soluciones que resuelvan problemas de manera eficiente.
+
+Me interesa especialmente el desarrollo de aplicaciones web, trabajando con tecnologías como **React, Node.js y Python**, además de áreas relacionadas con infraestructura, redes, bases de datos y sistemas informáticos.
+
+🚀 Actualmente estoy enfocado en seguir fortaleciendo mis habilidades, aprender nuevas tecnologías y participar en proyectos donde pueda convertir ideas en soluciones funcionales.
+
+💡 **Siempre aprendiendo, construyendo y mejorando.**
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://github.com/user-attachments/assets/54969abf-2749-48bc-ab3f-995869592975" width="260" alt="Jader Camilo Rodriguez Arboleda"/>
+
+<br>
+
+**Jader Camilo Rodriguez Arboleda**  
+Bogotá, Colombia
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,nodejs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,mysql,git,github,docker,html,css,js,vscode" />
 </p>
+
+<br>
+
+| Tecnología     | Propósito                                      |
+|----------------|------------------------------------------------|
+| **React**      | Interfaces modernas e interactivas             |
+| **Node.js**    | APIs y backend                                 |
+| **Python**     | Automatización y scripts                       |
+| **MySQL**      | Bases de datos relacionales                    |
+| **Git & GitHub** | Control de versiones y colaboración          |
+| **Docker**     | Contenerización y despliegue                   |
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaderCamiloUNAL&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderCamiloUNAL&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JaderCamiloUNAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderCamiloUNAL&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaderCamiloUNAL&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<table border="0"> <tr> <!-- Columna Izquierda --> <td width="60%" valign="top">
-  <h2>👋 Sobre Mí</h2>
+## 🚀 Proyectos Destacados
 
-  <p>
-    Soy estudiante de <strong>Ingeniería de Sistemas y Computación</strong>,
-    apasionado por la tecnología y el desarrollo de soluciones que permitan
-    resolver problemas de manera eficiente.
-  </p>
+> *Aquí puedes ir agregando tus mejores proyectos*
 
-  <p>
-    Me interesa especialmente el desarrollo de aplicaciones web,
-    trabajando con tecnologías como <strong>React, Node.js y Python</strong>,
-    además de áreas relacionadas con infraestructura, redes, bases de datos
-    y sistemas informáticos.
-  </p>
+### 🔹 Proyecto 1 - Nombre del Proyecto
+Descripción corta de lo que hace.  
+**Stack:** React • Node.js • MySQL  
+🔗 [Demo](#) • [Código](https://github.com/JaderCamiloUNAL/nombre-repo)
 
-  <p>
-    🚀 Actualmente estoy enfocado en seguir fortaleciendo mis habilidades,
-    aprender nuevas tecnologías y participar en proyectos donde pueda
-    convertir ideas en soluciones funcionales.
-  </p>
-
-  <p>
-    💡 <strong>Siempre aprendiendo, construyendo y mejorando.</strong>
-  </p>
-
-</td>
-
-<!-- Columna Derecha -->
-<td width="40%" align="center" valign="middle">
-
-  <img
-    width="300"
-    height="400"
-    alt="Jader Camilo Rodriguez Arboleda"
-    src="https://github.com/user-attachments/assets/54969abf-2749-48bc-ab3f-995869592975"
-  />
-
-  <strong>Jader Camilo Rodriguez Arboleda</strong>
-
-</td>
-
-</tr> </table>
+### 🔹 Proyecto 2 - Nombre del Proyecto
+Descripción corta.  
+**Stack:** Python • Docker  
+🔗 [Código](https://github.com/JaderCamiloUNAL/nombre-repo)
 
 ---
 
-📬 ¡Hablemos!
+## 🎓 Educación
 
-¿Tienes una idea, propuesta, proyecto o simplemente quieres conectar?
-¡No dudes en contactarme! 🚀
+**Ingeniería de Sistemas y Computación**  
+Universidad Nacional de Colombia  
+📍 Bogotá, Colombia
 
-<p align="center"> 
+---
+
+## 📬 Contacto
+
+¿Tienes una idea, propuesta o proyecto? ¡Hablemos!
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jader-camilo-rodríguez-arboleda-59901717a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mail:jadrodriguezar@gmail.com">
+  <a href="mailto:jadrodriguezar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  </a> <a href="TU_LINK_DE_INSTAGRAM"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
-  </a> </p> <p align="center"> <i>💻 Construyendo proyectos • 🚀 Aprendiendo constantemente • 🤝 Conectando con personas</i> </p>
+  <a href="https://github.com/JaderCamiloUNAL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
-
-## Educacion
-
-## Proyectos
-
-## Educación
-
-## Tech Stack :computer:
-
-| Technology  | Icono   | Proposito                                          |
-| ------------| ------- | -------------------------------------------------- |
-| **Node.js** | <img src="https://skillicons.dev/icons?i=nodejs" width="30"> |  Desarrollo de APIs, backend y servicios del lado del servidor |
-| **React**   | <img src="https://skillicons.dev/icons?i=react" width="30">  | Desarrollo de interfaces y aplicaciones web interactivas |
-| **Python**  | <img src="https://skillicons.dev/icons?i=python" width="30"> | Automatización, scripting y desarrollo de aplicaciones |
-| **MySql**   | <img src="https://skillicons.dev/icons?i=mysql" width="30">  | Gestión y almacenamiento de bases de datos relacionales y no relacionales |
-| **Git**     | <img src="https://skillicons.dev/icons?i=git" width="30">    | Control de versiones y seguimiento de cambios |
-| **Github**  | <img src="https://skillicons.dev/icons?i=github" width="30"> | Gestión de repositorios, colaboración y publicación de proyectos |
----
-
-#### 📝 Personal Information (`personal-data.js`)
-
-```javascript
-export const personalData = {
-  name: "JADER CAMILO RODRIGUEZ ARBOLEDA",
-  profile: "/profile.png", // Path to your profile image
-  designation: "Systems and Computer Engineer", 
-  description: "Your bio and introduction...", // About yourself
-  institutional email: "jadrodriguezar@unal.edu.co",
-  personal email : "jadercamilorodriguez@gmail.com",
-  phone: "+57 3113112170",
-  address: "Bogota, Colombia",
-  github: "https://github.com/yourusername",
-  facebook: "https://www.facebook.com/yourprofile",
-  linkedIn: "https://www.linkedin.com/in/yourprofile",
-  twitter: "https://twitter.com/yourusername",
-};
-```
----
+<p align="center">
+  <i>💻 Construyendo proyectos • 🚀 Aprendiendo constantemente • 🤝 Abierto a oportunidades</i>
+</p>
