@@ -106,6 +106,22 @@ Descripción corta.
 Universidad Nacional de Colombia  
 📍 Bogotá, Colombia
 
+## 📜 Certificados
+
+<p align="center">
+  <!-- Certificado 1 -->
+  <a href="LINK_DEL_CERTIFICADO_1">
+    <img src="https://img.shields.io/badge/Nombre_del_Certificado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Certificado 2 -->
+  <a href="LINK_DEL_CERTIFICADO_2">
+    <img src="https://img.shields.io/badge/Nombre_del_Certificado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Certificado 3 -->
+  <a href="LINK_DEL_CERTIFICADO_3">
+    <img src="https://img.shields.io/badge/Nombre_del_Certificado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 📬 Contacto
