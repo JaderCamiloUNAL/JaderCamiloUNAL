@@ -90,9 +90,22 @@ Descripción corta.
 
 ## 🎓 Educación
 
+### Universidad Nacional de Colombia
 **Ingeniería de Sistemas y Computación**  
-Universidad Nacional de Colombia  
+`jul. 2022 – nov. 2027` • *En curso*  
 📍 Bogotá, Colombia
+
+### Servicio Nacional de Aprendizaje (SENA)
+**Técnico en Sistemas**  
+`nov. 2021`  
+📍 Colombia
+
+**Comunicación en Portugués - Nivel 1**  
+`oct. 2022`
+
+### POLINTEC
+**Sistemas Informáticos**  
+`2018 – dic. 2019`
 
 ## 📜 Certificados
 
